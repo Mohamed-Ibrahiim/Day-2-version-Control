@@ -13,4 +13,4 @@ Tell me how to checkout another branch without commit changes
  Tell me how to delete tag locally and remotely.
  --> remote git push origin --delete v1.7
  --> local git tag -d v1.7
- 
+ (/vc.png)
