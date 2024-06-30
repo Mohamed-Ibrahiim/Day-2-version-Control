@@ -1,4 +1,4 @@
-Hellow To Day Two From version Control 
+Hello To Day Two From version Control 
 
 Tell me how to remove them locally and remotely.
 --> local git push origin :branch-name 
