@@ -6,3 +6,11 @@ Tell me how to remove them locally and remotely.
 
 Tell me how to checkout another branch without commit changes 
  --> git switch branch-name
+
+ Tell me how to list tags 
+ --> git tag
+
+ Tell me how to delete tag locally and remotely.
+ --> remote git push origin --delete v1.7
+ --> local git tag -d v1.7
+ 
