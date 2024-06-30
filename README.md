@@ -5,7 +5,7 @@ Tell me how to remove them locally and remotely.
 --> remote git branch -d branch-name
 
 Tell me how to checkout another branch without commit changes 
- --> git switch branch-name
+ --> git checkout branch-name
 
  Tell me how to list tags 
  --> git tag
